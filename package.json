@@ -7,10 +7,24 @@
     "shebang": "index.js"
   },
   "type": "module",
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "utility",
+    "shebang",
+    "node",
+    "add-shebangs"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PritishMishraa/add-shebangs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PritishMishraa/add-shebangs/issues"
+  },
+  "homepage": "https://github.com/PritishMishraa/add-shebangs#readme"
 }
