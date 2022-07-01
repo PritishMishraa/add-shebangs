@@ -4,12 +4,12 @@
 
 ## Install
 ```
-npm install -global add-shebang
+npm install -global add-shebangs
 ```
 
 ## Usage
 ```
-shebang
+shebangs
 ```
 
 ## Features to be added
