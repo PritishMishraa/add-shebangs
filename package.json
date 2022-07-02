@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "shebang": "index.js"
+    "shebangs": "index.js"
   },
   "type": "module",
   "keywords": [
