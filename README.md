@@ -1,6 +1,7 @@
-# add-shebangs
+# add-shebangs 
+[![npm](https://img.shields.io/npm/v/add-shebangs)](https://www.npmjs.com/package/add-shebangs)
 
-> A simple CLI tool that adds a shebang command to your file
+> A simple CLI tool that adds a shebang command to your file 
 
 ## Install
 ```
