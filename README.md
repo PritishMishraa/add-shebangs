@@ -14,6 +14,6 @@ shebangs
 
 ## Features to be added
 
-* adds bin file to `package.json`
+* adds bin field  to `package.json`
     * ask the user for the execute command 
 * support more languages
