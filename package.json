@@ -1,6 +1,6 @@
 {
   "name": "add-shebangs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple CLI tool that adds a shebang command to your file",
   "main": "index.js",
   "bin": {
