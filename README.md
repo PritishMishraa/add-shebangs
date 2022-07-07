@@ -1,5 +1,6 @@
-# add-shebangs 
-[![npm](https://img.shields.io/npm/v/add-shebangs)](https://www.npmjs.com/package/add-shebangs)
+<h1 align="center">add-shebangs</h1> 
+
+[![npm](https://img.shields.io/npm/v/add-shebangs?style=for-the-badge)](https://www.npmjs.com/package/add-shebangs)
 
 > A simple CLI tool that adds a shebang command to your file 
 
