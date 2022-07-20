@@ -1,4 +1,5 @@
 <h1 align="center">add-shebangs</h1> 
+<img align="center" src="./assets/screen1.png">
 <div align ="center">
 
 [![npm](https://img.shields.io/npm/v/add-shebangs?style=for-the-badge)](https://www.npmjs.com/package/add-shebangs)
