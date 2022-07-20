@@ -1,8 +1,10 @@
 <h1 align="center">add-shebangs</h1> 
+<div align ="center">
 
 [![npm](https://img.shields.io/npm/v/add-shebangs?style=for-the-badge)](https://www.npmjs.com/package/add-shebangs)
 
-> A simple CLI tool that adds a shebang command to your file 
+</div>
+<p align="center">a simple CLI tool that adds a shebang command to your file </p> 
 
 ## Install
 ```
@@ -16,6 +18,6 @@ shebangs
 
 ## Features to be added
 
-* adds bin field  to `package.json`
-    * ask the user for the execute command 
-* support more languages
+- adds bin field  to `package.json`
+    - ask the user for the execute command 
+- support more languages
